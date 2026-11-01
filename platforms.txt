@@ -36,3 +36,6 @@ freebsd/amd64-avx
 freebsd/386
 freebsd/arm
 freebsd/arm64
+
+netbsd/amd64
+netbsd/arm64
